@@ -2,6 +2,7 @@
 Track Chosen - Industrial Collaboration
 
 # Problem Statement
+We're choosing the Fix the Docs: Smarter, Faster Maintainable Documentation for Real World by iFast because:
 
 - Customers face difficulties placing orders as they need to queue. 
 
